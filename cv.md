@@ -10,11 +10,11 @@ pgaddiso@ucsd.edu
 
 ### Statement<a id="Statement"></a>
 
-I am an open-minded, critical-thinking, young data scientist who wants to change the world for the better by improving my ability to acomplish three core tasks:
-
-Building knowledge and extracting information from the world;
-Composing knowledge and information into compelling stories;
-Transitioning stories into opportunities for impactful action.
+>I am an open-minded, critical-thinking, young data scientist who wants to change the world for the better by improving my ability to acomplish three core tasks:
+>
+>* Building knowledge and extracting information from the world
+>* Composing knowledge and information into compelling stories
+>* Transitioning stories into opportunities for impactful action
 
 ---
 
