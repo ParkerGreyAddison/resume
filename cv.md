@@ -1,78 +1,91 @@
 # Parker Addison
 
-pgaddison@ucsd.edu  
+pgaddiso@ucsd.edu  
 (415) 497-8545  
-parkeraddison.com  
-linkedin.com/in/parkeraddison  
-github.com/parkergreyaddison
+[parkeraddison.com](http://parkeraddison.com)  
+[in/parkeraddison](https://linkedin.com/in/parkeraddison)  
+[git/parkergreyaddison](https://github.com/parkergreyaddison)  
 
 ---
 
 ### Statement<a id="Statement"></a>
-I am…
+
+I am an open-minded, critical-thinking, young data scientist who wants to change the world for the better by improving my ability to acomplish three core tasks:
+
+Building knowledge and extracting information from the world;
+Composing knowledge and information into compelling stories;
+Transitioning stories into opportunities for impactful action.
 
 ---
 
 ### Education<a id="Education"></a>
 
 #### B.S. in Data Science, Minor in Management
-UC San Diego, September 2017–June 2021
+UC San Diego, September 2017 – June 2021
 * Cumulative GPA: 3.91, Technical GPA: 3.94, Provost Honors
-* Subcomittee member of the Data Science Student Society (DS3)
+* Halıcıoğlu Data Science Institute Undergraduate Research Fellow, 2018 – 2019
+* Committee member of the Data Science Student Society (DS3)
+
+---
+
+### Research Experience<a id="Research-Experience"></a>
+
+#### Network Operations Center Researcher
+National Science Foundation and UC San Diego, July 2019 – Present
+* Training a ChatOps chatbot to parse, reference, and explain Docker and Kubernetes documentation in response to Natural Language Queries
+* Leveraging Reinforcement Learning to improve the chatbot based on direct and indirect user feedback
+* Prototyping interactive VR/AR visualizations of network communications between supercomputer centers
+* Aiding the realization of NSF Awards #1541349 PRP, #1730158 CHASE-CI, and #1826967 TNRP
+
+#### Faculty Research Assistant
+UC San Diego, March 2019 – Present
+
+* Collaborated one-on-one with a professor to formulate research questions and hypotheses
+* Analyzed network graph samples by conducting bootstrapping on well-known synthetic networks using [`NetworkX`] and other Python analysis packages
+* Developed a parametric statistical framework to identify and correct for statistical bias in samples from network graphs with scale-free characteristics
+
+#### Undergraduate Research Fellow
+Halıcıoğlu Data Science Institute, October 2018 – Present
+* Researched the financial accessibility of nutritious grocery lists in effort to combat food insecurity
+* Lead the four-person undergraduate team as a project manager and full-stack developer
+* Utilized a scalable PostgreSQL database to store and reference nutritional data collected from grocery webpages and REST APIs
+* Optimized nutrition versus cost using Linear Programming and Mixed Integer Non-Linear Solvers via Python APIs and packages like [`PuLP`], [`CVXPY`]
 
 ---
 
 ### Teaching Experience<a id="Teaching-Experience"></a>
 
 #### Instructional Assistant and Discussion Leader
-UC San Diego, April 2018–Present  
+UC San Diego, April 2018 – Present  
 * Produced [interactive materials for discussion and review sections](https://github.com/ucsd-ets/dsc10-fa18/tree/master/Discussions) in groups of up to 30 students, and lead final review for 250+ students
 * Helped students master programming, statistics, and data analysis concepts through one-on-one and small group tutoring
 * Collaborated with professors to design developmentally appropriate lab assignments, discussion notebooks, exam problems, and rubrics
-
 * Taught topics including:
-Python; Data Manipulation with [`pandas`]; Machine Learning with [`sklearn`]; Probability Theory; Parametric Statistics and Parameter Estimation; Nonparametric Statistics and Kernel Density Estimation; Dimensionality Reduction and Principal Component Analysis; Data Analysis practices
-
----
-
-### Research Experience<a id="Research-Experience"></a>
-
-#### NSF REU Candidate
-National Science Foundation, July 2019–Present
-* Trained a ChatOps chatbot to parse, explain, and reference Kubernetes documention in response to Natural Language Queries
-* Leveraged Reinforcement Learning to improve the chatbot based on direct and indirect user feedback
-* Supported the CHASE-CI Grant (Award #1730158) to build a cloud of GPUs for neural network training in the Pacific Research Platform
-
-#### Faculty Research Assistant
-UC San Diego, March 2019–Present
-* Analyzed network graph samples in Python by conducting bootstrapping on well-known synthetic networks
-* Developed a parametric statistical framework to analyze samples from large network graphs with scale-free characteristics
-
-#### Undergraduate Research Fellow
-Halıcıoğlu Data Science Institute, October 2018–Present
-* …
-* 
+Python; Data Manipulation with [`pandas`]; Machine Learning with [`sklearn`]; Data Analysis with [`matplotlib`] and [`scipy`]; Probability Theory; Parametric Statistics and Parameter Estimation; Nonparametric Statistics and Kernel Density Estimation; Dimensionality Reduction and Principal Component Analysis;
 
 ---
 
 ### Professional Experience<a id="Professional-Experience"></a>
 
 #### Machine Learning Engineer
-Sapie Space, January 2018–August 2018
-* Implemented Eclat Machine Learning Algorithm as part of a Recommender System to match clients with social media micro-influencers
-* Crawled and scraped webpages with Selenium, utilized REST APIs, cleaned data sets, extracted features and engineered features pertaining to social influence
-* Studied mathematics behind Social Influence Mining, Graph Theory, and Association Rule Learning
+Sapie Space, January 2018 – August 2018
+* Worked with a startup using Machine Learning to match clients with social media micro-influencers
+* Crawled and scraped webpages with [`Selenium`], utilized REST APIs, cleaned data, and engineered features pertaining to influence
+* Implemented Eclat Machine Learning Algorithm to contribute to our Recommender System
+* Studied papers detailing mathematics behind Social Influence Mining, Graph Theory, and Association Rule Learning
+* Tabled at Triton Entrepreneur Night to offer demos and talk with potential investors
 
 #### Data Analyst
-SommSelect, July 2017–September 2018
-* Aggregated large databases of e-commerce wine offers using Excel
-* Analyzed and charted associations between wine bottle profitability and various features
-* Communicated with executives to determine key deliverables
+SommSelect, July 2017 – September 2018
+* Aggregated data containing 4 years of e-commerce wine sales, 1300+ bottles, and 14,000+ customers
+* Analyzed and charted associations between wine bottle profitability and various features in Excel
+* Communicated with executives to determine key deliverables and highlight top customer segments
 
 #### Intern
-Ameriprise Financial Inc., June 2017–August 2017
-* Designed and populated Excel spreadsheets with client financial information and added logic for self-populating cells
-* Generated predictive reports for potential stock portfolios
+Ameriprise Financial Inc., June 2017 – August 2017
+* Overhauled design of Comprehensive Client Service Review spreadsheets in Excel
+* Populated spreadsheets financial information and formulated logic for self-populating cells
+* Generated performance reports for stock portfolio mixes in MorningStar based on well-known investors’ advice directly from their books
 
 ---
 
@@ -81,11 +94,11 @@ Ameriprise Financial Inc., June 2017–August 2017
 #### Mentor
 UCSD Datathon, April 2019
 * Mentored 100+ students at UCSD's first-ever data centered hackathon
-* …
+* Explained concepts and debugged code related to CNN Image Classification, Transfer Learning, Data Canonicalization, Geocoding, and Geographic Visualization
 
 #### [Hacker, *"NeuralNetworkVisual"*](https://devpost.com/software/neural-network-visual-3d-graphical-editor)
 SD Hacks, October 2018
-* Engineered an interactive 3D visualizer and editor for neural networks
+* Engineered a web-based interactive 3D visualizer and editor for [`Keras`] deep learning models using Python and JavaScript
 * Learned common architectures and brainstormed visualizations for Perceptrons, CNNs, and LSTMs
 
 #### Hacker, *"Ouch, That Hurts!"*
@@ -100,22 +113,36 @@ ASA DataFest at Chapman University, April 2018
 
 ---
 
-### Presentations<a id="Presentations"></a>
+### Speaking Arrangements<a id="Speaking-Arrangements"></a>
 
-Addison, Parker (May 2019). ["***What Ignited My Love For Data Science***".](https://youtu.be/S7srcEu3Lpw) Talk presented at Ignite Talks 2019 at UC San Diego.
+#### [Invited Speaker, *"What Ignited My Love For Data Science"*](https://youtu.be/S7srcEu3Lpw)
+Ignite Talks UC San Diego, May 2019
 
 ---
 
 ### Of Note<a id="Of-Note"></a>
 
-#### [DSC 170 Coursework](https://github.com/parkergreyaddison/TODO)
-UC San Diego, March 2019–June 2019
+#### [Course Projects - Spatial Data Science (DSC 170)](https://github.com/parkergreyaddison/Geospatial-Data-Science)
+UC San Diego, March 2019 – June 2019
 * Leveraged [`ArcGIS`] through the Python API, interfacing with [`Shapely`] and [`GeoPandas`]
-* …
+* Practiced principles of cartography, modeled business trends in food deserts, analyzed spatial autocorrelation of various features, uncovered frequentist likelihood of bike accidents using geoenrichment, and developed a framework for modeling traffic impact of major events
 
 ---
 
-### Skills<a id="Skills"></a>
+### Interpersonal Skills<a id="Interpersonal-Skills"></a>
+
+#### Communcation:
+Listening and explaining.  I tailor tutoring and discussion sessions to satisfy student feedback.  I convey concepts by leading thoughts in the right direction, rather than making an absolute statement.
+
+#### Teamwork:
+Leading and collaborating.  I have experience with diverse teams of size 2 to 16 during hackathons, projects, and work positions.  Many of my major milestones have been collaborative endeavors.
+
+#### Learning:
+Observing and questioning.  I am never afraid to speak up, ask questions, and propose hypotheses.  I am always eager to listen and discover what others have to say.
+
+---
+
+### Technical Skills<a id="Technical-Skills"></a>
 
 #### Languages:
 Python (advanced), SQL (intermediate), R (intermediate), JavaScript (intermediate), Java (adv. beginner), HTML (advanced), CSS (advanced)
@@ -129,7 +156,7 @@ AWS Lambda, AWS EC2, Kubernetes, Docker
 Python packages: [`NumPy`], [`SciPy`], [`multiprocessing`]
 
 #### Miscellaneous Analysis:
-Ptyhon packages: [`PuLP`], [`CVXPY`], [`NetworkX`]
+Python packages: [`PuLP`], [`CVXPY`], [`NetworkX`]
 
 #### Machine Learning:
 Linear Regression, KNN Classification, Naive Bayes Classification, Decision Trees and Random Forests, Perceptron Neural Nets, Convolutional Neural Nets, Image Processing, Natural Language Processing  
@@ -151,7 +178,7 @@ Python packages: [`ArcGIS`], [`GeoPandas`], [`Shapely`], [`Folium`]
 
 &nbsp;  
 
-Please feel free to ask me about any of the subsections above!  
+Please feel free to ask me about anything listed on this document!  
 Reach me at pgaddiso@ucsd.edu and we'll find a time to chat.
 
 [`Pandas`]: https://pandas.pydata.org/
