@@ -10,7 +10,7 @@ pgaddiso@ucsd.edu
 
 ### Statement<a id="Statement"></a>
 
->I am an open-minded, critical-thinking, young data scientist who wants to change the world for the better by improving my ability to acomplish three core tasks:
+>I am an open-minded, critical-thinking, young data scientist who wants to change the world for the better by improving my ability to accomplish three core tasks:
 >
 >* Building knowledge and extracting information from the world
 >* Composing knowledge and information into compelling stories
@@ -131,7 +131,7 @@ UC San Diego, March 2019 – June 2019
 
 ### Interpersonal Skills<a id="Interpersonal-Skills"></a>
 
-#### Communcation:
+#### Communication:
 Listening and explaining.  I tailor tutoring and discussion sessions to satisfy student feedback.  I convey concepts by leading thoughts in the right direction, rather than making an absolute statement.
 
 #### Teamwork:

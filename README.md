@@ -1,3 +1,5 @@
-# resume
+# Curriculum Vitae
 
-Can be viewed [here at nbviewer](http://nbviewer.jupyter.org/github/ParkerGreyAddison/resume/blob/master/resume.pdf) if GitHub cannot render the pdf on mobile.
+Contains my CV, available as a rendered Markdown file (preferred since there are no page breaks) or as a PDF.
+
+To view the Markdown version file, simply click on `cv.md`.  If desired you may select, copy, and paste the rendered text into your favorite word editor without hassle, and much of the formatting will be preserved.
