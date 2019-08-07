@@ -31,8 +31,9 @@ UC San Diego, September 2017 – June 2021
 ### Research Experience<a id="Research-Experience"></a>
 
 #### Network Operations Center Researcher
-National Science Foundation and UC San Diego, July 2019 – Present
+Qualcomm Institute - UC San Diego Division of Calit2, July 2019 – Present
 * Training a ChatOps chatbot to parse, reference, and explain Docker and Kubernetes documentation in response to Natural Language Queries
+* Automating diagnosis pipelines to allow the chatbot to conduct root cause analysis
 * Leveraging Reinforcement Learning to improve the chatbot based on direct and indirect user feedback
 * Prototyping interactive VR/AR visualizations of network communications between supercomputer centers
 * Aiding the realization of NSF Awards #1541349 PRP, #1730158 CHASE-CI, and #1826967 TNRP
@@ -76,7 +77,7 @@ Sapie Space, January 2018 – August 2018
 * Tabled at Triton Entrepreneur Night to offer demos and talk with potential investors
 
 #### Data Analyst
-SommSelect, July 2017 – September 2018
+SommSelect, July 2017 – September 2017
 * Aggregated data containing 4 years of e-commerce wine sales, 1300+ bottles, and 14,000+ customers
 * Analyzed and charted associations between wine bottle profitability and various features in Excel
 * Communicated with executives to determine key deliverables and highlight top customer segments
@@ -145,7 +146,7 @@ Observing and questioning.  I am never afraid to speak up, ask questions, and pr
 ### Technical Skills<a id="Technical-Skills"></a>
 
 #### Languages:
-Python (advanced), SQL (intermediate), R (intermediate), JavaScript (intermediate), Java (adv. beginner), HTML (advanced), CSS (advanced)
+Python (advanced), SQL (intermediate), R (basic), JavaScript (intermediate), Java (basic), HTML & CSS (intermediate)
 
 #### Database Management:
 SQL, AWS DynamoDB, AWS S3  
