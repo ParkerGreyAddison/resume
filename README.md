@@ -1,5 +1,7 @@
-# Curriculum Vitae
+# Resume & Curriculum Vitae
 
-Contains my CV, available as a rendered Markdown file (preferred since there are no page breaks) or as a PDF.
+Contains my resume as a one-page PDF, and my CV available as a rendered Markdown file or as a PDF.
 
-To view the Markdown version file, simply click on `cv.md`.  If desired you may select, copy, and paste the rendered text into your favorite word editor without hassle, and much of the formatting will be preserved.
+These can also be viewed [at my website](http://parkeraddison.com/resume.html), including a slightly interactive webview of my CV.
+
+To request updates or a resume tailored to a specific topic just shoot me an email and I'll oblige.
