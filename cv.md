@@ -20,11 +20,12 @@ pgaddiso@ucsd.edu
 
 ### Education<a id="Education"></a>
 
-#### B.S. in Data Science, Minor in Management
+#### B.S. in Data Science, Minor in Business Management
 UC San Diego, September 2017 – June 2021
-* Cumulative GPA: 3.91, Technical GPA: 3.94, Provost Honors
+* Cumulative GPA: 3.92, Technical GPA: 3.96, Provost Honors
 * Halıcıoğlu Data Science Institute Undergraduate Research Fellow, 2018 – 2019
-* Committee member of the Data Science Student Society (DS3)
+* Data Science Student Society (DS3) - Committee Member
+* HDSI Student Representative - Founding Member, Course Evaluation Support
 
 ---
 
@@ -160,7 +161,7 @@ Python packages: [`NumPy`], [`SciPy`], [`multiprocessing`]
 Python packages: [`PuLP`], [`CVXPY`], [`NetworkX`]
 
 #### Machine Learning:
-Linear Regression, KNN Classification, Naive Bayes Classification, Decision Trees and Random Forests, Perceptron Neural Nets, Convolutional Neural Nets, Image Processing, Natural Language Processing  
+Linear Regression, KNN Classification, Naive Bayes Classification, Decision Trees and Random Forests, Deep Neural Nets, Convolutional Neural Nets, Image Processing, Natural Language Processing  
 Python packages: [`SciKit-Learn`], [`Keras`], [`PyTorch`], [`OpenCV`], [`NLTK`]
 
 #### Visualization:
@@ -177,7 +178,7 @@ Python packages: [`ArcGIS`], [`GeoPandas`], [`Shapely`], [`Folium`]
 
 ---
 
-&nbsp;  
+<br>
 
 Please feel free to ask me about anything listed on this document!  
 Reach me at pgaddiso@ucsd.edu and we'll find a time to chat.
