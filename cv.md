@@ -4,7 +4,7 @@ pgaddiso@ucsd.edu
 (415) 497-8545  
 [parkeraddison.com](http://parkeraddison.com)  
 [in/parkeraddison](https://linkedin.com/in/parkeraddison)  
-[git/parkergreyaddison](https://github.com/parkergreyaddison)  
+[git/parkeraddison](https://github.com/parkeraddison)  
 
 ---
 
